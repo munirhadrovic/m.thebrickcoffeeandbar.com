@@ -214,9 +214,9 @@
 					<section id="navigation-menu">
 						<ul id="menu">
 							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Seo</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Local SE0</a></li>
-							<li><a href="#contcatform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Menu</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
 						</ul>
 					</section>
                     <p class="fnt-clr">This is only a <b>preview</b> version of your Mobile Website.<br>
@@ -240,9 +240,9 @@
 					<section id="navigation-menu-contact">
 							<ul id="menu-contact">
 								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Web Design</a></li>
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Local SE0</a></li>
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Web Analytics</a></li>
+								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Menu</a></li>
+								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+								<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact Us</a></li>
 							</ul>
 					</section>
 					<div>	
